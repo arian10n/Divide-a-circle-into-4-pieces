@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Main-box{
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 90px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.Red-Box{
+    height: 50%;
+    width: 50%;
+    background-color: red;
+    float: left;
+}
+.Blue-Box{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+    float: left;
+}
+.Green-Box{
+    height: 50%;
+    width: 50%;
+    background-color: green;
+    float: left;
+}
+
+.Yellow-Box{
+    height: 50%;
+    width: 50%;
+    background-color: yellow;
+    float: left;
+}
